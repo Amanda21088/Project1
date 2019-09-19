@@ -1,0 +1,7 @@
+查看内存:free
+退出:exit
+显示当前文件:ls -al
+查看硬盘:df -h
+跑火车:sl
+打开防火墙:systemctl stop firewalld
+关闭防火墙:systemctl start firewalld
